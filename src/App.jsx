@@ -1,4 +1,5 @@
 import "./App.css";
+import Hello from "./Components/home";
 function App() {
   return (
     <>
@@ -18,6 +19,7 @@ function App() {
           </li>
         </ul>
       </div>
+      <Hello />
     </>
   );
 }
