@@ -6,7 +6,7 @@ function App() {
       <div className="container1">
         <ul>
           <li>
-            <a href="#">Home</a>
+            <a href="#">Hoede</a>
           </li>
           <li>
             <a href="#">About</a>
